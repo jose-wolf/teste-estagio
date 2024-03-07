@@ -24,6 +24,7 @@ public class Teste2 {
             numero2 = soma;
         }
         System.out.println("\nValor total do calculo Fibonacci é: " + numero1);
+        scanner.close();
     }
 
 }
